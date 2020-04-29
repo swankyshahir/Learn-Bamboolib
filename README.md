@@ -5,7 +5,7 @@
 
 You can run this repo in a Jupyter Notebook on Binder by clicking on the following button:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/swankyshahir/Learn-Bamboolib/blob/master, filepath=/data_for_container/learnbam.ipynb) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/swankyshahir/Learn-Bamboolib/blob/master/data_for_container/, filepath=learnbam.ipynb) 
 
 
 
